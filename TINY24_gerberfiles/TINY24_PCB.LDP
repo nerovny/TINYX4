@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Public\Documents\Altium\TINY24\TINY24_PCB.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=tiny24_pcb-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=tiny24_pcb-slotholes.txt|DrillLayers=gtl,gbl
