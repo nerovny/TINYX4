@@ -4,7 +4,7 @@ Barebone Atmel ATtiny24/44/84 controllers development board. Designed to make ea
 - ICSP programming only (saves flash)
 - No USB-UART converter (saves pins)
 - No DC power jack. No DC regulator (USB 5v only)
-- User controlled LED on pin A4 (SPI CLK pin)
+- User controlled LED on pin A4 (SPI SCK pin)
 
 This repo contains the Altium project, ready-made Gerber files archive and BOM.
 
