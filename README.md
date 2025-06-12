@@ -1,9 +1,10 @@
 # TINYX4
 ## Overview
-Barebone Atmel ATtiny24/44/84 controllers development board. Created to easily utilize some of these cheap but useful MCUs.
+Barebone Atmel ATtiny24/44/84 controllers development board. Designed to make easy use of some of those cheap but useful microcontrollers.
 - ICSP programming only (saves flash)
 - No USB-UART converter (saves pins)
 - No DC power jack. No DC regulator (USB 5v only)
+- User controlled LED on pin A4 (SPI CLK pin)
 
 This repo contains the Altium project, ready-made Gerber files archive and BOM.
 
